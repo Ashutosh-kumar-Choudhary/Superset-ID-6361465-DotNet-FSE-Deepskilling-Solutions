@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\bin\Debug\net8.0\ProductSearchExample.exe
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\bin\Debug\net8.0\ProductSearchExample.deps.json
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\bin\Debug\net8.0\ProductSearchExample.runtimeconfig.json
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\bin\Debug\net8.0\ProductSearchExample.dll
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\bin\Debug\net8.0\ProductSearchExample.pdb
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\obj\Debug\net8.0\ProductSearchExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\obj\Debug\net8.0\ProductSearchExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\obj\Debug\net8.0\ProductSearchExample.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\obj\Debug\net8.0\ProductSearchExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\obj\Debug\net8.0\ProductSearchExample.dll
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\obj\Debug\net8.0\refint\ProductSearchExample.dll
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\obj\Debug\net8.0\ProductSearchExample.pdb
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\obj\Debug\net8.0\ProductSearchExample.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Deepskilling\Deepskilling Solutions\Week 1 solutions\algorithms_datastructure solution\ProductSearchExample\ProductSearchExample\obj\Debug\net8.0\ref\ProductSearchExample.dll

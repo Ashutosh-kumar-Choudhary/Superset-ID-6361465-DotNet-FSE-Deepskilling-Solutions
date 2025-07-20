@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\week5_Microservices\\KafkaChatApp\\KafkaChatProducer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0294EFE-748D-498A-A560-D5731F85D371}|KafkaChatProducer.csproj|c:\\users\\kiit\\desktop\\week5_microservices\\kafkachatapp\\kafkachatproducer\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0294EFE-748D-498A-A560-D5731F85D371}|KafkaChatProducer.csproj|solutionrelative:models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0294EFE-748D-498A-A560-D5731F85D371}|KafkaChatProducer.csproj|c:\\users\\kiit\\desktop\\week5_microservices\\kafkachatapp\\kafkachatproducer\\kafkachatproducer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0294EFE-748D-498A-A560-D5731F85D371}|KafkaChatProducer.csproj|solutionrelative:kafkachatproducer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0294EFE-748D-498A-A560-D5731F85D371}|KafkaChatProducer.csproj|c:\\users\\kiit\\desktop\\week5_microservices\\kafkachatapp\\kafkachatproducer\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0294EFE-748D-498A-A560-D5731F85D371}|KafkaChatProducer.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\week5_Microservices\\KafkaChatApp\\KafkaChatProducer\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Models\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\week5_Microservices\\KafkaChatApp\\KafkaChatProducer\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "Models\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:34:40.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaChatProducer.csproj",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\week5_Microservices\\KafkaChatApp\\KafkaChatProducer\\KafkaChatProducer.csproj",
+              "RelativeDocumentMoniker": "KafkaChatProducer.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\week5_Microservices\\KafkaChatApp\\KafkaChatProducer\\KafkaChatProducer.csproj",
+              "RelativeToolTip": "KafkaChatProducer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T08:33:24.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\week5_Microservices\\KafkaChatApp\\KafkaChatProducer\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\week5_Microservices\\KafkaChatApp\\KafkaChatProducer\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:33:03.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

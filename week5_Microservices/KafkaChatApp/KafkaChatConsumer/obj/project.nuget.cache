@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RhzhQyfxt2U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\forso\\OneDrive\\Desktop\\Digital-Nurture-Solutions\\Week 5 - Microservices\\KafkaChatApp\\KafkaChatConsumer\\KafkaChatConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\forso\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\forso\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

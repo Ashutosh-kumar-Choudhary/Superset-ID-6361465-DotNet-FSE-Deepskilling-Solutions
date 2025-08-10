@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+"<message>Conflicting change in master</message>" 
+=======
+"<message>Hello from GitWork branch</message>" 
+<message>Resolved: Final message after merge</message>
+
+>>>>>>> GitWork
